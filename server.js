@@ -77,7 +77,8 @@ http
             })
         }, 7000)
     }
-})
-.listen(3000, function(){
+
+
+.listen(3000, function (){
     console.log('Server started')
 })
